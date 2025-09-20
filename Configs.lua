@@ -60,6 +60,7 @@ local teleportWorlds = config.teleportWorlds or {
     ["Fantasy"] = 4174118306,
     ["Wasteland"] = 4728805070,
     ["Prehistoric"] = 125804922932357,
+       ["Shinrin"] = 125804922932357
 }
 
 local WORLD_FARM = 125804922932357
